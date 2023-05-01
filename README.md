@@ -46,13 +46,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SalemCP/SalemCP/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
 
