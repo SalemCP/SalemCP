@@ -56,4 +56,16 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31owakbe7qo4vnvbflrk2qypxi6i)
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SalemCP/count.svg?"  />
+</div>
+
+###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SalemCP/SalemCP/output/snake.svg" alt="Snake animation" />
+
+###
 
