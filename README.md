@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SalemCP/SalemCP/blob/main/image.png" alt="image description">
+  <img src="https://github.com/SalemCP/SalemCP/blob/main/image%20(1).png">
 </p>
 
 
