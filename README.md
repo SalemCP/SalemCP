@@ -1,4 +1,7 @@
-![link](
+<p align="center">
+  <img src="https://github.com/SalemCP/SalemCP/blob/main/image.png" alt="image description">
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Salem</h1>
